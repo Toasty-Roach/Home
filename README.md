@@ -1,2 +1,2 @@
-# Wiki
-Toasty-Roach Wiki Page
+# See Wiki page for the Wiki!
+Toasty-Roach Code Page
