@@ -1,2 +1,2 @@
 # Home
-Toasty-Roach Home Page
+Toasty-Roach Wiki Page
